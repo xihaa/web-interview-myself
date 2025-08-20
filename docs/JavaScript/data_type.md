@@ -15,7 +15,7 @@
 
 ## 一、基本类型
 
-基本类型主要为以下6种：
+基本类型主要为以下7种：
 
 - Number
 - String
@@ -23,6 +23,7 @@
 - Undefined
 - null
 - symbol
+- bigint 大整数（ES2020)
 
 
 
